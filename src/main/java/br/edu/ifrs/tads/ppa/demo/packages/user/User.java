@@ -1,8 +1,10 @@
-package com.example.demo;
+package br.edu.ifrs.tads.ppa.demo.packages.user;
 
 import java.util.HashSet;
 import java.util.Set;
 
+import br.edu.ifrs.tads.ppa.demo.packages.profile.Profile;
+import br.edu.ifrs.tads.ppa.demo.packages.role.Role;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

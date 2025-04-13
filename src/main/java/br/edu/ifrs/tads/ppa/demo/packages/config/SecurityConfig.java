@@ -1,4 +1,4 @@
-package com.example.demo;
+package br.edu.ifrs.tads.ppa.demo.packages.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

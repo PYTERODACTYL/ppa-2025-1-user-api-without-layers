@@ -1,4 +1,4 @@
-package com.example.demo;
+package br.edu.ifrs.tads.ppa.demo.packages.role;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

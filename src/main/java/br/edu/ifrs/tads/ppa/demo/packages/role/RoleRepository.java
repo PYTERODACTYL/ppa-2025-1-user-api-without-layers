@@ -1,4 +1,4 @@
-package com.example.demo;
+package br.edu.ifrs.tads.ppa.demo.packages.role;
 
 import java.util.Collection;
 import java.util.Set;

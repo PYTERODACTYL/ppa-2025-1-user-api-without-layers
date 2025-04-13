@@ -1,7 +1,8 @@
-package com.example.demo;
+package br.edu.ifrs.tads.ppa.demo.packages.profile;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 
+import br.edu.ifrs.tads.ppa.demo.packages.user.User;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;

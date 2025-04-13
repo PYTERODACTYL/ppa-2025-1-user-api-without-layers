@@ -1,4 +1,4 @@
-package com.example.demo;
+package br.edu.ifrs.tads.ppa.demo.packages.user;
 
 import java.util.Optional;
 

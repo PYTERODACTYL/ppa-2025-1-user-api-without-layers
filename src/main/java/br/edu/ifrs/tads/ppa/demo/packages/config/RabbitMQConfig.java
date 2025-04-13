@@ -1,4 +1,4 @@
-package com.example.demo;
+package br.edu.ifrs.tads.ppa.demo.packages.config;
 
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.amqp.core.Binding;

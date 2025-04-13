@@ -1,4 +1,4 @@
-package com.example.demo;
+package br.edu.ifrs.tads.ppa.demo.packages.user;
 
 import java.util.HashSet;
 import java.util.List;
@@ -15,6 +15,12 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
+
+import br.edu.ifrs.tads.ppa.demo.packages.profile.Profile;
+import br.edu.ifrs.tads.ppa.demo.packages.profile.Profile.AccountType;
+import br.edu.ifrs.tads.ppa.demo.packages.role.Role;
+import br.edu.ifrs.tads.ppa.demo.packages.role.RoleRepository;
+import br.edu.ifrs.tads.ppa.demo.packages.user.newUser.NewUser;
 
 
 

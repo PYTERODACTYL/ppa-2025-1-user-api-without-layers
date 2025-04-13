@@ -1,6 +1,9 @@
-package com.example.demo;
+package br.edu.ifrs.tads.ppa.demo.packages.user.newUser;
 
 import java.util.List;
+
+import br.edu.ifrs.tads.ppa.demo.packages.profile.Profile;
+import br.edu.ifrs.tads.ppa.demo.packages.profile.Profile.AccountType;
 
 public record NewUserEvent(
         String name,
